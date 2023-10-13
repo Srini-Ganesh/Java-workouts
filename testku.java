@@ -1,8 +1,5 @@
 import java.util.*;
-import java.io.*;
-import java.time.*;
-import java.sql.*;
-class testku
+class powerOfTwo
 {
 	public static void main(String args[])
 	{
@@ -23,17 +20,4 @@ class testku
 			System.out.println(n+" is not power of 2.");
 		}
 	}
-	public static List<String> splitWordsBySeparator(List<String> words, char separator) {
-        List<String> ans=new ArrayList<>();
-        for(String word:words)
-        {
-            String[] arr=word.split(String.valueOf(separator),1);
-			System.out.println(arr.length);
-            for(String w:arr)
-            {
-                ans.add(w);
-            }
-        }
-        return ans;
-    }
 }
