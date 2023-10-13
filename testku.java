@@ -1,5 +1,5 @@
 import java.util.*;
-class PowerOfTwo
+class CheckPowerOfTwo
 {
 	public static void main(String args[])
 	{
