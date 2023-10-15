@@ -32,6 +32,5 @@ class First_Second_BigNums_inarray
 			}
 		}
 		System.out.println("First big: "+arr[0]+"\nSecond big:"+arr[1]);
-		for(int n:arr){System.out.println(n);}
 	}
 }
