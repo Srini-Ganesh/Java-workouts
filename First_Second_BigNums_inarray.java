@@ -1,8 +1,5 @@
 import java.util.*;
-import java.io.*;
-import java.time.*;
-import java.sql.*;
-class testku
+class First_Second_BigNums_inarray
 {
 	public static void main(String args[])
 	{
