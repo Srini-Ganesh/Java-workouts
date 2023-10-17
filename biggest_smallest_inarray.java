@@ -21,7 +21,7 @@ class find
 		return small;
 	}
 }
-class arr_big_small
+class biggest_smallest_inarray
 {
 	public static void main(String[] args)
 	{
