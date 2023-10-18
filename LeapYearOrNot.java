@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.time.*;
 import java.sql.*;
-class testku
+class LeapYearOrNot
 {
 	public static void main(String args[])
 	{
