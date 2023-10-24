@@ -12,7 +12,7 @@ class check
 		return count;
 	}
 }
-class NumOfCharInString
+class NumOfGivenCharInGivenString
 {
 	public static void main(String[] args)
 	{
