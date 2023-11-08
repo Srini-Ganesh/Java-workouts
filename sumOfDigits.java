@@ -1,8 +1,5 @@
 import java.util.*;
-import java.io.*;
-import java.time.*;
-import java.sql.*;
-class testku
+class test
 {
 	public static int sumOfDigits(int num)
 	{
